@@ -37,6 +37,7 @@ On retrouve bien les différents éléments qui ont été décris dans l'archite
 
  ### Allumer une led
  Le fichier.c correspondant est le main.c. Le programme consiste en une simple fonction _IOWR_ALTERA_AVALON_PIO_DATA(base, data)_ qui va commander l'ensemble des led. La base correspond à l'adresse des led dans le système. Dans data, on met 0x01 afin d'allumer seulement la derniere led.
+ 
 ![image](https://github.com/ESN2024/lacheze_lab1/assets/147801348/0d31c0cd-d28b-4293-8141-871efb2c1e5c)
 
 ### Réaliser un chenillard qui se lance automatiquement
