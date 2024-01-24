@@ -27,12 +27,12 @@ On retrouve bien les différents éléments qui ont été décris dans l'archite
  Après Compilation du design sur Quartus, j'ai généré le bsp du système afin de pourvoir utiliser les drivers et fonction lié aux éléments du design qsys (piobp , clock, interruptions).
 
  ## Travail réalisé
- Le lab était décomposé en 4 parties:
- 
+ Le lab était décomposé en 4 parties:  
  -allumer un led  
  -réaliser un chenillard qui se lance automatiquement  
  -réaliser un chenillard qui se lance lorsque un bouton poussoir est pressé  
  -réaliser un chenillard qui se lance lorsque un bouton poussoir est pressé et dont la vitesse varie en fonction des switchs  
+ 
  Pour chaque partie, j'ai réalisé un fichier .c différent et j'ai dut générer un makefile à chaque fois.
 
  ### Allumer une led
