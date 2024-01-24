@@ -28,9 +28,13 @@ On retrouve bien les différents éléments qui ont été décris dans l'archite
 
  ## Travail réalisé
  Le lab était décomposé en 4 parties:
+ 
  -allumer un led
+ 
  -réaliser un chenillard qui se lance automatiquement
+ 
  -réaliser un chenillard qui se lance lorsque un bouton poussoir est pressé
+ 
  -réaliser un chenillard qui se lance lorsque un bouton poussoir est pressé et dont la vitesse varie en fonction des switchs
 
  Pour chaque partie, j'ai réalisé un fichier .c différent et j'ai dut générer un makefile à chaque fois.
