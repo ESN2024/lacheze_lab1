@@ -57,3 +57,7 @@ Pour réaliser le chenillard avec les switch, on réutilise l'interruption d'ava
 Le code se trouve dans chenillard_irq_sw.c
 
 # Réalisation
+
+
+https://github.com/ESN2024/lacheze_lab1/assets/147801348/01a100d5-dc35-4aa4-b188-f59afbaee6a7
+
